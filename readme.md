@@ -1,4 +1,4 @@
-To test the solution run `go test solution` in the cli
+oTo test the solution run `go test solution` in the cli
 
 # Common error:
 
